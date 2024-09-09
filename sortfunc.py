@@ -1,7 +1,4 @@
 #  пузырьковая сортировка
-
-nums = [56, 7, 3, -5, 9, 1, 4, 6, 8, 2, 44]
-
 def bubble_sort(ls):
     swapped = True
     while swapped:
